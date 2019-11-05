@@ -5,6 +5,6 @@
  Can we all try and edit the readme for practice?
  
  Caroline (done)
- Olivia
+ Olivia (done)
  Kirsty
  Gabrielle
