@@ -6,7 +6,7 @@ Repository for group website Coding For Girls competition.
  
  Caroline (done)
  Olivia (done)
- Kirsty (NOT done)
+ Kirsty (DONE)
  Gabrielle (NOT done)
 
 Notes for Git/GitHub: - don't worry about this just yet though, since we still need to confirm an design idea etc.
